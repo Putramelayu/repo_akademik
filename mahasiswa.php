@@ -10,6 +10,9 @@
     <br>
     <h6>NIM : 23110007</h6><br>
     <h6>Nama : Sulaiman</h6><br>
+    <h6>Ketua Kelas</h6><br>
+    <h6>NIM : 23110007</h6><br>
+    <h6>asep</h6>    
     <a href="index.php">Kembali</a>
 </body>
 </html>
